@@ -1,0 +1,5 @@
+1 : My code stores products in a nested dictionary. It is stored in its own file along with the vendors and purchase orders. The dictionary for each product is the name of the product.
+2 : 
+3 : 
+4 : 
+5 : 
