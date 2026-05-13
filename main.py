@@ -18,10 +18,10 @@ class Main:
 
             if user_input =="1":
                 while True:
-                    print("1 : " \
-                    "2 : " \
-                    "3 : " \
-                    "4 : " \
+                    print("1 : add_products" \
+                    "2 : view_product" \
+                    "3 : search_produc" \
+                    "4 : edit_product" \
                     "5 : Go Back.")
 
                     user_input = input().strip()
